@@ -12,18 +12,18 @@ Here are some ideas to get you started:
 
 -->
 🎓 I am ***Siddharth***, undergraduate at IIIT Lucknow.
----
+--
 💻 Currently working on Web Development.
----
+--
 ⌨️ I like doing questions on Data Structure and Algorithms.
----
+--
 📷 Love poetry and photography.
----
+--
 📒 A bit of competitive coding too is my job.
----
+--
 🕵🏼 For more about me and how to connect visit: https://siddharthsinghvats.netlify.app/
 --
-🖱 Leetcoder.
----
+🖱 Leetcoder (Rating 1796 , 400+ problems)
+--
 
 Thank you!
