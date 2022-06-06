@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 🎓 I am ***Siddharth***, undergraduate at IIIT Lucknow.
---
+<br/>
 💻 Currently working on Web Development.
 --
 ⌨️ I like doing questions on Data Structure and Algorithms.
