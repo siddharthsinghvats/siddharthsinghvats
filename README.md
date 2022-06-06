@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 📒 A bit of competitive coding too is my job.
 ---
 🕵🏼 For more about me and how to connect visit: https://siddharthsinghvats.netlify.app/
----
-🖱Leetcoder.
+--
+🖱 Leetcoder.
 ---
 
 Thank you!
