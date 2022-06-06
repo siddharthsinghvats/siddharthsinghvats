@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mail:siddharth1singh1@gmal.com
 
 -->
-🎓 I am Siddharth, undergraduate at IIIT Lucknow.
+🎓 I am ***Siddharth***, undergraduate at IIIT Lucknow.
 ---
 💻 Currently working on Web Development.
 ---
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 📒 A bit of competitive coding too is my job.
 ---
-🕵🏼 For more about me and how to connec visit: https://siddharthsinghvats.netlify.app/
+🕵🏼 For more about me and how to connect visit: https://siddharthsinghvats.netlify.app/
 ---
 🖱Leetcoder.
 ---
