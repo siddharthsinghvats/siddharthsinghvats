@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </br><br/>
 🖱 Leetcoder (Rating 1796 , 400+ problems)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinghvats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinghvats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Siddarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthsinghvats&show_icons=true&theme=radical)
