@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 <br/><br/>
 🕵🏼 For more about me and how to connect visit: https://siddharthsinghvats.netlify.app/
 </br><br/>
-🖱 Leetcoder (Rating 1796 , 400+ problems)
-
+🖱 Leetcoder (Rating 1796 , 490+ problems)
+</br><br/>
+</> 4 ⭐ Codechef , Pupil Codeforces
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinghvats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
