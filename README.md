@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br/><br/>
 🕵🏼 For more about me and how to connect visit: https://siddharthsinghvats.netlify.app/
 </br><br/>
-🖱 Leetcoder (Rating 1796 , 490+ problems)
+🖱 Leetcoder (Rating 1881 (Knight) , 550+ problems)
 </br><br/>
 </> 4 ⭐ Codechef , Pupil Codeforces
 
