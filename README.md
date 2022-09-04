@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br/><br/>
 📷 Love poetry and photography.
 <br/><br/>
-📒 A bit of competitive coding too is my job.
+📒 Competitive coding on it's way.
 <br/><br/>
 🕵🏼 For more about me and how to connect visit: https://siddharthsinghvats.netlify.app/
 </br><br/>
