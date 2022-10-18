@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </br><br/>
 🖱 Leetcoder (Rating 1881 (Knight) , 550+ problems)
 </br><br/>
-</> 4 ⭐ Codechef , Pupil Codeforces
+</> 4 ⭐ Codechef , Specialist Codeforces
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinghvats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
