@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </br><br/>
 </> 4 ⭐ Codechef , Specialist Codeforces
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=siddharthsinghvats)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=siddharthsinghvats&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinghvats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
