@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there 👋<br>🎓 I am Siddharth Singh, undergraduate at IIIT Lucknow.<br><br>💻 Currently working on Web Development.<br><br>⌨️ I like doing questions on Data Structure and Algorithms.<br><br>📷 Love poetry and photography.<br><br>📒 Competitive coding on it's way.<br><br>🕵🏼 For more about me and how to connect visit: https://siddharthsinghvats.netlify.app/<br><br>🖱 Leetcoder (Rating 1881 (Knight) , 550+ problems)<br><br></> 4 ⭐ Codechef , Specialist Codeforces
+## Hi there 👋<br><br>
+🎓 I am Siddharth Singh, undergraduate at IIIT Lucknow.<br><br>💻 Currently working on Web Development.<br><br>⌨️ I like doing questions on Data Structure and Algorithms.<br><br>📷 Love poetry and photography.<br><br>📒 Competitive coding on it's way.<br><br>🕵🏼 For more about me and how to connect visit: https://siddharthsinghvats.netlify.app/<br><br>🖱 Leetcoder (Rating 1881 (Knight) , 600+ problems)<br><br></> 4 ⭐ Codechef , Specialist Codeforces
 
 
 ## 🌐 Socials:
